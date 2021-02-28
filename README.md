@@ -1,5 +1,7 @@
 # Vue-Task-Tracker
 
+View app: https://quizzical-montalcini-c67abf.netlify.app/
+
 ## Project setup
 ```
 npm install
